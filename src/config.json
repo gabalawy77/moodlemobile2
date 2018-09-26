@@ -12,7 +12,7 @@
     "demo_sites": {"student": {"url": "https://lms.k-p-a.com", "username": "student", "password": "1234"}, "teacher": {"url": "https://lms.k-p-a.com", "username": "teacher", "password": "1234"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://lms.k-p-a.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
